@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    font-size: 40px;
+
+}
+
+.logo-img{
+    margin-right: 10px;
+}
+
+.genius{
+    background-image: linear-gradient(to bottom, #FFA500 25% , #FF8C00,  #FF4500, #000000, #000000);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
